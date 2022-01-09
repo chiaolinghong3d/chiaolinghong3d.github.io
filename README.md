@@ -1,5 +1,5 @@
 # chiaolinghong3d.github.io
 
-## this page serves as the main host and will redirects to resume repository
+## this page serves as the main host and will get redirected to resume repository
 
 ---
